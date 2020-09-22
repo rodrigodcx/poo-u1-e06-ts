@@ -1,4 +1,4 @@
-# Unidade 1 - Exercício 05 - TypeScript
+# Unidade 1 - Exercício 06 - TypeScript
 Esse exercício foi escrito em TypeScript e testado com Jest.
 
 Atualmente o teste está falhando pois a saída do método está diferente do esperado.
